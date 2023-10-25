@@ -1,0 +1,16 @@
+{
+  "name": "photo-gallery",
+  "integrations": {
+    "capacitor": {},
+    "enterprise": {
+      "keyId": 15885,
+      "productKey": "key_bab06a61109b40778b6676c57c99cf70",
+      "appId": "a39f0244",
+      "orgId": "d6122650-eb61-44fe-a07b-4b373ea33a57",
+      "registries": [
+        "@ionic-enterprise;https://registry.ionicframework.com/"
+      ]
+    }
+  },
+  "type": "angular"
+}
